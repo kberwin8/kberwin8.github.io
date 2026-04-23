@@ -5,17 +5,17 @@ layout: default
 
 # COMP110 Data Analysis: Quiz Effectiveness
 
-### Summary of Analysis
+## Summary of Analysis
 
 For this analysis, I explored the idea of dropping the lowest quiz grade for students who attend every quiz in COMP110. I analyzed survey data collected from COMP110 students, focusing on how students rated quiz effectiveness on a scale of 1-7. I also examined how these ratings varied across different class years.
 
-### Visualizations
+## Visualizations
 
-<img src = "/kberwin8.github.io/static/Screenshot 2026-04-23 at 10.16.07 AM.png" alt="Chart 1" width="500"/>
+<img src = "/kberwin8.github.io/static/Screenshot 2026-04-23 at 10.16.07 AM.png" alt="Chart1" width="500"/>
 
-<img src="/kberwin8.github.io/static/Screenshot 2026-04-23 at 10.16.16 AM.png" alt="Chart 2" width="500"/>
+<img src="/kberwin8.github.io/static/Screenshot 2026-04-23 at 10.16.16 AM.png" alt="Chart2" width="500"/>
 
-<img src="/kberwin8.github.io/static/Screenshot 2026-04-23 at 10.16.24 AM.png" alt="Chart 3" width="500"/>
+<img src="/kberwin8.github.io/static/Screenshot 2026-04-23 at 10.16.24 AM.png" alt="Chart3" width="500"/>
 
 
 
