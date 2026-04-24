@@ -11,11 +11,11 @@ For this analysis, I explored the idea of dropping the lowest quiz grade for stu
 
 ## Visualizations
 
-<img src="{{ site.baseurl }}/static/chart1.png" alt="Chart 1" width="500"/>
+<img src="/MyFirstWebsite/static/chart1.png" alt="Chart 1" width="500"/>
 
-<img src="{{ site.baseurl }}/static/chart2.png" alt="Chart 2" width="500"/>
+<img src="/MyFirstWebsite/static/chart2.png" alt="Chart 2" width="500"/>
 
-<img src="{{ site.baseurl }}/static/chart3.png" alt="Chart 3" width="500"/>
+<img src="/MyFirstWebsite/static/chart3.png" alt="Chart 3" width="500"/>
 
 
 
